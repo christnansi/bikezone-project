@@ -6068,7 +6068,7 @@ footer {
 
 /** Sub Banner start **/
 .sub-banner {
-    background: rgba(0, 0, 0, 0.04) url(../img/car-1.jpg) top left repeat;
+    background: rgba(0, 0, 0, 0.04) url(../img/motorcycle1.jpg) top left repeat;
     background-size: cover;
     height: 360px;
     background-position: center center;
@@ -6176,7 +6176,7 @@ footer {
 
 /** Details banner start **/
 .details-banner{
-    background: rgba(0, 0, 0, 0.04) url(../img/car-11.jpg) top left repeat;
+    background: rgba(0, 0, 0, 0.04) url(../img/motorcycle1.jpg) top left repeat;
     background-size: cover;
     height: 550px;
     background-position: center center;
@@ -8087,7 +8087,6 @@ table {
 /** Overview bgi **/
 .overview-bgi {
     position: relative;
-    background-image: url(../img/motorcycle1.jpg);
 }
 
 .overview-bgi:before {
